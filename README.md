@@ -7,17 +7,17 @@ This assignment from my CTI course at the University of Arizona tasked me with c
 
 ### Skills Learned
 
--Collected and analyzed open-source intelligence (OSINT) to identify potential threat actors and their tactics, techniques, and procedures (TTPs)
+- Collected and analyzed open-source intelligence (OSINT) to identify potential threat actors and their tactics, techniques, and procedures (TTPs)
 
--Examined multiple data sources, such as threat feeds, logs, and reports, to find patterns and connect indicators of compromise (IOCs)
+- Examined multiple data sources, such as threat feeds, logs, and reports, to find patterns and connect indicators of compromise (IOCs)
 
--Mapped threat actor behaviors to frameworks like MITRE ATT&CK to better understand their operational methodologies
+- Mapped threat actor behaviors to frameworks like MITRE ATT&CK to better understand their operational methodologies
 
--Compiled detailed and actionable threat profiles, including actor motives, resources, and historical activities, for stakeholders
+- Compiled detailed and actionable threat profiles, including actor motives, resources, and historical activities, for stakeholders
 
--Evaluated threat actor motivations, targeting patterns, and geopolitical influences to predict future attack vectors
+- Evaluated threat actor motivations, targeting patterns, and geopolitical influences to predict future attack vectors
 
--Stayed updated on the latest threat intelligence trends and adapted profiling techniques to align with evolving cyber threats
+- Stayed updated on the latest threat intelligence trends and adapted profiling techniques to align with evolving cyber threats
 
 
 
